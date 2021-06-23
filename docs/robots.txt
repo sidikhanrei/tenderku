@@ -1,0 +1,3 @@
+User-Agent: *
+Disallow:
+Sitemap: https://api.tenderku.id/sitemap.xml
